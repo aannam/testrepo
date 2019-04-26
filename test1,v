@@ -1,0 +1,26 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2019.04.26.11.30.16;	author admin;	state Exp;
+branches;
+next	;
+commitid	1005CC2EBB73CE7EE07;
+
+
+desc
+@@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@added test file:wq
+
+@
